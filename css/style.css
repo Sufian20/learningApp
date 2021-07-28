@@ -1,0 +1,63 @@
+body {
+    background-image: url(../images/start.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.open{
+    text-align: center;
+    padding-top: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.btn-open{
+    position: relative;
+    right: 350px;
+    top: -7px;
+    background: #fb1f8b;
+    
+    padding: 10px;
+  
+}
+
+
+.main-app{
+  
+    text-align: center;
+      /* Full height */
+
+    
+}
+    
+.title{
+    color: #FFC300;
+    font-weight: bold;
+
+}
+
+.btn{
+    background: #11ACE8;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+    padding: 4px 32px 4px 32px;
+    margin: 10px 10px 10px 10px;
+}
+
+
+
+.anim{
+    box-shadow: 0 15px 18px 0 tomato;
+    opacity: 0.5;
+}
